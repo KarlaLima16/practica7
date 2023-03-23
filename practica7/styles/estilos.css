@@ -1,0 +1,70 @@
+html{
+    background-size: 100em 50em;
+    background-repeat:no-repeat;
+    background-image: url(../images/art-background4.jpg);
+}
+
+body{
+    margin:0 ;
+    padding: 0;
+
+}
+
+header{
+    background-color: white;
+    padding:1em;
+    margin-right: 60em;
+    margin-bottom: 6em;
+    margin-left: 8em;
+    font-family: fantasy;
+}
+
+header h1{
+    text-transform: uppercase;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+
+header h2{
+    font-size: 1em;
+    font-family: cursive;
+}
+
+article footer{
+    background-color: white;
+    padding: 0.5em;
+    margin-top: 0;
+    margin-right: 0em;
+    margin-bottom: 1em;
+    margin-left: 0em;
+}
+
+article{
+    background-color: rgba(187, 208, 226, 0.4) ;
+    padding: 0.5em;
+    margin-top: 0;
+    margin-right: 50em;
+    margin-bottom: 2em;
+    margin-left: 8em;
+}
+article h2{
+    font-family: monospace;
+    font-size:x-large;
+    background-color: rgba(142, 140, 139, 0.55) ;
+    padding: 0.5em;
+    margin-top: 0;
+    margin-right: 0em;
+    margin-bottom: 1em;
+    margin-left: 0em;
+   
+}
+
+.clas1:first-child{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:medium;
+
+}
+
+.clas1:secondary-chil{
+    background-color: dimgrey;
+}
